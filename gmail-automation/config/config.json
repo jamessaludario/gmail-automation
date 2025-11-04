@@ -1,0 +1,27 @@
+{
+  "validUser": {
+    "email": "automationt700@gmail.com",
+    "password": "Test@utomation700"
+  },
+  "invalidUser": {
+    "email": "automationt700@gmail.com",
+    "password": "wrongpassword"
+  },
+  "emails": [
+    {
+      "recipient": "recipient1@gmail.com",
+      "subject": "Test Email 1",
+      "body": "This is the first test email."
+    },
+    {
+      "recipient": "recipient2@gmail.com",
+      "subject": "Test Email 2",
+      "body": "This is the second test email."
+    },
+    {
+      "recipient": "recipient3@gmail.com",
+      "subject": "Test Email 3",
+      "body": "This is the third test email."
+    }
+  ]
+}
